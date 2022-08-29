@@ -1,0 +1,10 @@
+client_id,client_name,employee_id,employee_name,product_name,created_at,amount
+CL101,トヨタ自動車株式会社,EMP101,佐藤 太郎,training,2022/07/01,1200
+CL102,ソニーグループ株式会社,EMP101,佐藤 太郎,assessment,2022/07/02,3400
+CL101,トヨタ自動車株式会社,EMP101,佐藤 太郎,training,2022/07/03,3200
+CL103,株式会社キーエンス,EMP102,鈴木 次郎,assessment,2022/07/02,2400
+CL104,日本電信電話株式会社,EMP102,鈴木 次郎,training,2022/07/02,1230
+CL104,日本電信電話株式会社,EMP102,鈴木 次郎,assessment,2022/07/04,5430
+CL102,ソニーグループ株式会社,EMP103,高橋 三郎,assessment,2022/07/04,780
+CL105,株式会社リクルートホールディングス,EMP103,高橋 三郎,assessment,2022/07/06,230
+CL106,株式会社三菱UFJフィナンシャル・グループ,EMP104,田中 四郎,training,2022/07/04,12000
